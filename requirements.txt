@@ -1,0 +1,6 @@
+streamlit==1.51.0
+web3==7.14.0
+solana==0.34.3
+solders==0.24.0
+pandas
+requests
